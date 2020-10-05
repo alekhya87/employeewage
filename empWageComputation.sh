@@ -5,6 +5,6 @@ if [ $isPresent -eq $randomCheck ]
 then
    echo "present"
 else
-	echo "absent"
+   echo "absent"
 fi
 
